@@ -1,0 +1,29 @@
+<!DOCTYPE html>      
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: gray;">
+
+    <font size="6"></font>
+
+         <b><h2 style="background-color: beige; text-align: center; padding: 1em; border-bottom: 5px solid;"> ANASAYFA </h2><br><br></b>
+    
+    <ul>
+    
+    <li>
+   <h2>iletişim sayfasını gitmek için buraya baınız&rarr; <a href="iletişim.html" style="text-decoration: none; font-family: 'Lucida Sans'; color: rgb(165, 42, 42);" > iletişime </a><br><br></h2>
+    </ul>
+
+    <ul>
+        <li>
+  <h2> hakkımdaki sayfaya gitmek için buraya basınız&rarr;<a href="hakkımda.html" style="text-decoration: none; font-family: 'Lucida Sans'; color: rgb(165, 42, 42);"">hakkımdaki</a><br><br></h2>
+        </li></ul>
+  <ul>
+    <li>
+  <h2>E postaya gitmek için burayı tıklayınız&rarr;<a href="mailto:selimsenanisa51@gamil.com" style="text-decoration: none; font-family: 'Lucida Sans'; color: rgb(165, 42, 42);"">selimsenanisa51@gmail.com</a></h>
+    </li>
+</body>
+</html>
